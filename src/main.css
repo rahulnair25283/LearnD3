@@ -5,9 +5,8 @@ body
 }
 
 #chartArea {
-    width: 400px;
-    height: 300px;
-    background-color: #CCC;
+    width: 500px;
+    height: 400px;
 }
 
 .bar
