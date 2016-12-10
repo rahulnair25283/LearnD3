@@ -1,0 +1,29 @@
+body
+{
+    padding-top: 50px;
+    padding-left: 100px;
+}
+
+#chartArea {
+    width: 400px;
+    height: 300px;
+    background-color: #CCC;
+}
+
+.bar
+{
+    display: inline-block;
+    margin-right: 2px;
+}
+
+.bubble {
+    display: inline-block;
+    fill-opacity: 0.5;
+    stroke: black;
+    stroke-weight: 1px;
+}
+
+.active {
+    fill: blue;
+    stroke-width: 3;
+}
