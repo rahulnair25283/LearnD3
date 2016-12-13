@@ -5,8 +5,8 @@ body
 }
 
 #chartArea {
-    width: 500px;
-    height: 400px;
+    width: 800px;
+    height: 600px;
 }
 
 .bar
@@ -23,6 +23,5 @@ body
 }
 
 .active {
-    fill: blue;
-    stroke-width: 3;
+    fill: green;
 }
